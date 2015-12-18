@@ -20,7 +20,7 @@
     "bootstrap-daterangepicker": "^2.1.13"
   },
   "peerDependencies": {
-    "react": "^0.14.0"
+    "react": "^0.13.0"
   },
   "devDependencies": {
     "babelify": "^6.3.0",
